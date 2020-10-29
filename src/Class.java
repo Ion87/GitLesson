@@ -3,4 +3,5 @@ public class Class {
     int y;
     int c;
     int j;
+    int d;
 }
